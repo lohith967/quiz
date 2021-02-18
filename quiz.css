@@ -1,0 +1,9 @@
+body{
+   background: rgb(202, 88, 36);
+}
+.login_div,.login_div1{
+background: white;
+padding: 10px;
+float: none;
+border-radius: 15px;
+}
